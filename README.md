@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# run-buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://sas1300.github.io/run-buddy/
 
 ## Contribution
 Made with love by Sheila Stapleton
+
+### ©2019 Run Buddy, Inc
