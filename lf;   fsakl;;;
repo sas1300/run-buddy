@@ -1,0 +1,201 @@
+[33mcommit 91da3ad040fce395bd84e2279e22ad15ad3d15a6[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/flexbox[m[33m, [m[1;31morigin/feature/flexbox[m[33m)[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 9 14:33:14 2020 -0500
+
+    add flexbox to the steps
+
+[33mcommit 5c8827685136be6eedbfbd5b49950e56d7202f8b[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Tue Sep 8 22:16:52 2020 -0500
+
+    added flex-row div class
+
+[33mcommit a76ff941a039cd08a4eb6b1e30278a655f58c28d[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Tue Sep 8 21:58:34 2020 -0500
+
+    added to hero css
+
+[33mcommit d4ebc411488ba493bc50756d3a21fb9fa889cdec[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Tue Sep 8 21:41:49 2020 -0500
+
+    header navigation
+
+[33mcommit 3fccd3575b2fc626a3a8d6d8abdded86c4a9f91a[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Tue Sep 8 21:32:26 2020 -0500
+
+    add flexbox to header
+
+[33mcommit 5cf3bdaafda8e3709ee90c242cdb25364b7c2204[m[33m ([m[1;31morigin/feature/contact-form[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mfeature/contact-form[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Tue Sep 8 20:45:49 2020 -0500
+
+    add contact form
+
+[33mcommit 112c368a476d04976c11b2e4b47fab168deccccd[m[33m ([m[1;31morigin/feature/hero-text[m[33m, [m[1;32mfeature/hero-text[m[33m)[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 22:46:47 2020 -0500
+
+    add content to hero, replace image
+
+[33mcommit 893fcbe46047d92f0217a6d3cc37ee1bb99e5c51[m
+Merge: a9b4603 d66a79f
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 16:23:04 2020 -0500
+
+    Merge branch 'master' into develop
+
+[33mcommit d66a79f851b6c47dd86a31aeabb1646f270a31ab[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 11db849 a2976e6
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 16:21:35 2020 -0500
+
+    Merge branch 'master' of github.com:sas1300/run-buddy into master
+
+[33mcommit a9b460337975700d0cf5c11ce00ae36e2c1e2bcd[m
+Merge: b4db72a a2976e6
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 16:18:42 2020 -0500
+
+    resolved merge conflict in title of README.md file
+
+[33mcommit b4db72acfa6d883f79c735f71cf599a816d51b5f[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 16:07:29 2020 -0500
+
+    undate readme file
+
+[33mcommit a2976e6dab4c4ed565c1d7435cbd1da7728ebbcc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sas1300 <70187220+sas1300@users.noreply.github.com>
+Date:   Mon Sep 7 16:00:53 2020 -0500
+
+    Update README.md
+
+[33mcommit 11db849f4fdb27f1fca0cdec2f1defa9cebb0775[m
+Merge: 14db2e3 9c83662
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 15:41:03 2020 -0500
+
+    Merge branch 'master' of github.com:sas1300/run-buddy into master
+
+[33mcommit 14db2e3d39a8da81189171e1830466247e800e63[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Sep 7 15:38:22 2020 -0500
+
+    untracked files?
+
+[33mcommit 9c83662f39bc4ef198e67432a5188418788ddf03[m
+Author: sas1300 <70187220+sas1300@users.noreply.github.com>
+Date:   Mon Sep 7 14:55:48 2020 -0500
+
+    Create README.md
+
+[33mcommit b2ecc85a6e7b06b9fed53bb93fab5da2d868f821[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Sun Sep 6 11:33:38 2020 -0500
+
+    css secndary style sheet
+
+[33mcommit 5c4d3a1a642da7d3e6dffaa31be01b144dd31f88[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Sat Sep 5 23:45:56 2020 -0500
+
+    privacy policy html
+
+[33mcommit c865f65030b4188aa61cf827229e93cd0191761e[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Sat Sep 5 21:38:53 2020 -0500
+
+    reach out html
+
+[33mcommit f0a9a3d6c11aef52043d0db19aa3151f1c30b925[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Sat Sep 5 20:55:09 2020 -0500
+
+    trainer section
+
+[33mcommit 7c66e3dfbd601b75e994db0f9142f92dfdd9f05c[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Sat Sep 5 14:56:08 2020 -0500
+
+    what we do what you do section style
+
+[33mcommit 1e09bcbfe6f13f4863a6828354d6a295295b3e94[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Fri Sep 4 23:47:36 2020 -0500
+
+    what you do icons
+
+[33mcommit 278ac56768a33698415c3db696c6b000f740a714[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Fri Sep 4 21:02:18 2020 -0500
+
+    anchor elements
+
+[33mcommit 283ffbf31636810510ba9f80b6b5c8fde7d710ed[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Thu Sep 3 20:19:36 2020 -0500
+
+    button style
+
+[33mcommit 9f5e730015efc61f8a218185d1f190d4415a1bfa[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Thu Sep 3 20:02:35 2020 -0500
+
+    Input box style
+
+[33mcommit a099bf71a38c17182f22a4311e70d4b8d44511cb[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Thu Sep 3 17:24:53 2020 -0500
+
+    hero-form style
+
+[33mcommit 9cfef872f6328b4ee78b0fc2c377ae3e60c761ab[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 2 18:01:50 2020 -0500
+
+    form element
+
+[33mcommit c1c784780f6a4b2c0de5fb58cea67228ee5de947[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 2 17:07:03 2020 -0500
+
+    css style footer
+
+[33mcommit 69810c19fae703c40ee611badf881c1fcef826ae[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 2 16:42:28 2020 -0500
+
+    css header
+
+[33mcommit c8d43010309712c182a646de6fe2ab9eeb94cc0b[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 2 01:34:21 2020 -0500
+
+    added style.css
+
+[33mcommit 9b19d94a74b64e387e407875605e8e641c73ef22[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Wed Sep 2 00:16:34 2020 -0500
+
+    added anchors
+
+[33mcommit 3f7f1381369cad97ccf2ce2a3f1b3b7db48699ac[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Aug 31 01:47:36 2020 -0500
+
+    html outline and gitignore
+
+[33mcommit fd00e128bd8e0e98a920d009c3fd03c50250d6c9[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Aug 31 01:05:06 2020 -0500
+
+    add more text
+
+[33mcommit 31d0277dc6f1ed91b71752360fea5390a73db92c[m
+Author: sas1300 <sascode13@gmail.com>
+Date:   Mon Aug 31 01:01:20 2020 -0500
+
+    page template
