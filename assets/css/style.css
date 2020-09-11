@@ -233,7 +233,7 @@ section {padding: 60px;
 
     .trainer {
         flex: 1;
-        margin: 0 auto 20px auto;
+        margin: 0 15px 20px 15px;
         background: #024e76;
         color: #fce138;    
     }
@@ -268,6 +268,22 @@ section {padding: 60px;
     .trainer-bio p {
         font-size: 17px;
         
+    }
+
+     .trainer-bio h3 {
+            font-size: 16px;
+            }
+    
+    .trainer-bio h4 {
+            font-weight: lighter;
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+    
+    .trainer-bio p {
+            font-size: 10px;
+            
+        }
     }
 
 /* reach out section */
